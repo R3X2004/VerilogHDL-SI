@@ -1,6 +1,7 @@
 # VerilogHDL-SI
  Assignments done in Summer Internship Course of Silicon University named- Digital VLSI Design From Verilog RTL And Verification To Synthesis.
 All the codes written by me are given below. Click on the link followed by the title, you will be redirected to EDAPlayground repository of mine.
+
 Regards,
  
 Ashutosh Patra
