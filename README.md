@@ -1,6 +1,8 @@
 # VerilogHDL-SI
  Assignments done in Summer Internship Course of Silicon University named- Digital VLSI Design From Verilog RTL And Verification To Synthesis.
-All the codes are given below. Click on the link followed by the title, you will be redirected to EDAPlayground repository of mine. All the programs are written by me(Ashutosh Patra).
+All the codes written by me are given below. Click on the link followed by the title, you will be redirected to EDAPlayground repository of mine.
+Regards 
+Ashutosh Patra
 
 1. **SR Latch (If Else)** -https://edaplayground.com/x/UnrD
 3. **JK Latch (Gate Level)**  -https://edaplayground.com/x/ntw9
